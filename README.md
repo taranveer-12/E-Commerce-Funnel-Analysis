@@ -1,13 +1,7 @@
 # E-Commerce-Funnel-Analysis
-# 🛒 E-Commerce Funnel Analysis (SQL Project)
 
 ## 📌 Overview
-This project analyzes an online retail dataset to understand customer behavior through a multi-step funnel using SQL. The data was processed using PostgreSQL and results exported from pgAdmin.
-
-## 📂 Folders
-- `/queries` – All SQL scripts used in analysis
-- `/outputs` – CSV output of each query
-- `/screenshots` – Optional chart images or result previews
+This project analyzes an online retail dataset to understand customer behavior through a multi-step funnel using SQL. The data was processed using PostgreSQL and results exported from pgAdmin
 
 ## 📈 Key Funnel Stages
 1. Total Visitors
@@ -30,8 +24,7 @@ This project analyzes an online retail dataset to understand customer behavior t
 - Excel (to view/export)
 - GitHub (for hosting)
 
-## 📁 Output Samples
-Check the `/outputs/` folder for all `.csv` files.
+
 
 ---
 
